@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JS, TS
 - 💞️ I’m looking to collaborate on some JS project
-- ⚡ Fun fact: I have 18 cats
+- ⚡ Fun fact: I have 08.05 cats
