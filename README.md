@@ -1,4 +1,4 @@
-name = input("Как твои дела?? ")
+name = input("Как твои дila?? ")
 print("Привет, {Name}!")
 >>
 
