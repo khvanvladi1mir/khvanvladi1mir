@@ -1,4 +1,4 @@
 name = input("Как твои дела? ")
-print("Привет, {Name and }!")
+print("Привет, {Name and you }!")
 >
 
